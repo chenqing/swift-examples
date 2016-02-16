@@ -6,3 +6,7 @@ learning swift in X days
 - [Beginning iOS 9 Programmingwith Swift](http://www.appcoda.com/learnswift/hello-world-explained.html)
 
 - [Tutorial – Rounded Buttons](http://www.seemuapps.com/tutorial-rounded-buttons)
+
+## day 2
+
+- stack view 
